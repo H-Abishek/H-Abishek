@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**H-Abishek/H-Abishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** passionate about building scalable web applications and creating clean, maintainable code. I enjoy working across both frontend and backend technologies, and I'm always eager to learn and take on new challenges.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+
+**Backend:**
+- Java
+- Spring Boot
+
+**Database:**
+- MySQL
+
+**Tools & Platforms:**
+- Git & GitHub
+- REST APIs
+- Postman
+- Maven
+- VS Code / IntelliJ
+
+## 🛠️ Projects
+
+Here are a few things I've built recently:
+
+- **[Project Name 1](#)** – Brief description of what it does and tech used
+- **[Project Name 2](#)** – Another project with a short summary
+- **[Project Name 3](#)** – Highlight any full-stack work
+
+*(More projects in the repositories tab ⬆️)*
+
+## 📫 Let's Connect
+
+Feel free to reach out!
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [your.email@example.com]
+
+---
+
+⭐️ _Thanks for visiting my profile! If you like what you see, feel free to check out my projects or give a follow._
